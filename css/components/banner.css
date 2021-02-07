@@ -1,0 +1,71 @@
+.banner-world-image {
+ background-image: url(../../images/world.png);
+ color: black;
+ margin: 50px;
+ background-size: cover;
+ background-position: center;
+ height: 600px;
+ display: flex;
+ align-items: flex-end;
+}
+
+.banner-ms-image {
+ background-image: url(../../images/chronic_1.jpg);
+ color: black;
+ margin: 50px;
+ background-size: cover;
+ background-position: center;
+ height: 600px;
+ display: flex;
+ align-items: flex-end;
+}
+
+.banner-tar-image {
+ background-image: url(../../images/tar.jpg);
+ color: black;
+ margin: 50px;
+ background-size: cover;
+ background-position: center;
+ height: 600px;
+ display: flex;
+ align-items: flex-end;
+}
+
+.banner-goo-image {
+ background-image: url(../../images/goog.png);
+ color: black;
+ margin: 50px;
+ background-size: cover;
+ background-position: center;
+ height: 600px;
+ display: flex;
+ align-items: flex-end;
+}
+
+.banner-help-image {
+ background-image: url(../../images/help.jpg);
+ color: black;
+ margin: 50px;
+ background-size: cover;
+ background-position: center;
+ height: 600px;
+ display: flex;
+ align-items: flex-end;
+}
+
+.banner-text {
+   color: #353941;
+   opacity: 0.85;
+   font-size: 12px;
+   padding: 20px;
+   background-color: white;
+   border-radius: 25%;
+}
+
+.banner-world-text {
+   color: #353941;
+   font-size: 12px;
+   padding: 20px;
+   background-color: white;
+   border-radius: 25%;
+}
